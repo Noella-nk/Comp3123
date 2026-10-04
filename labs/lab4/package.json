@@ -1,0 +1,24 @@
+{
+    "name": "Week04_express",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js",
+        "tests": "echo 'Error no test specified'"
+    },
+    "keywords": [
+        "express",
+        "GET params vs query",
+        "static files"
+    ],
+    "author": "Noela Kabundi",
+    "license": "ISC",
+    "description": "Running a web server using Express",
+    "dependencies": {
+        "express": "^5.2.1"
+    },
+    "devDependencies": {
+        "nodemon": "^1.14.10"
+    }
+}
